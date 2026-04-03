@@ -1,32 +1,19 @@
-# OMX-AI_IL_ROBOTIS
-# 📘 AI 학습 정리
+📘 Omx-AI-IL_Robotis
 
-이 리포지토리는 Jetson Nano를 활용한 AI 학습 및 로봇 제어 실습 내용을 정리한 공간입니다.
+### 1. 모방학습 개요
+* [모방학습(Imitation Learning)이란?](https://en.wikipedia.org/wiki/Imitation_learning)
+* [IL 핵심 알고리즘 설명](https://ropas.snu.ac.kr/liberation/seminar/2021/Imitation_Learning.pdf)
 
----
+### 2. omx-서브모터
+* [로보티즈(ROBOTIS) e-Manual 바로가기](https://emanual.robotis.com/)
+* [DYNAMIXEL 서브모터 제어 가이드](https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/)
 
-## 1. About GitHub, Markdown, Colab
-* [GitHub 사용법](#)
-* [Markdown 문법](#)
-* [Colab 기초](#)
-
-## 2. About Python3
-* [Python basic](#)
-
----
-
-## 🚀 Getting Started with Jetson Nano
-본 과정은 자율 학습(**Self-paced course**)으로 진행됩니다.
-
-### 📂 Repository Information
-* **Repository Name:** `OMX-AI-IL-Robotis`
-
-### 📝 주요 학습 주제
-1. **모방학습 개요** (Imitation Learning Overview)
-   * ChatGPT 활용 및 데이터 기반 학습 원리 이해
-2. **OMX 및 서보모터 관련** (About OMX-Servo)
-   * OpenManipulator-X 제어 및 하드웨어 인터페이스 기초
-3. **추후 업데이트 예정**
+### 3. 데이터 수집 및 전처리
+* [데이터 사이언스 기초 (Pandas/Numpy)](https://pandas.pydata.org/docs/user_guide/10min.html)
+* [머신러닝 데이터 전처리 기법](https://scikit-learn.org/stable/modules/preprocessing.html)
 
 ---
-*Last Updated: 2026-04-03*
+
+### 4. 기타 학습 리소스
+* [Python3 공식 문서](https://docs.python.org/ko/3/)
+* [Google Colab 시작하기](https://colab.research.google.com/)
